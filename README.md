@@ -2,7 +2,7 @@
 
 An interactive Next.js playground for the published `bharat-utils` npm package.
 
-**Live demo** [https://REPLACE-WITH-VERCEL-URL](https://REPLACE-WITH-VERCEL-URL)
+**Live demo** [https://bharat-utils-demo.vercel.app](https://bharat-utils-demo.vercel.app)
 
 > Screenshot placeholder. Add a screenshot of the deployed playground here.
 
